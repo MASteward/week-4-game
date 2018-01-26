@@ -1,0 +1,58 @@
+
+body {
+	background-color: #F38630;
+}
+
+.rules{
+	background-color: #E0E4CC;
+	font-family: 'Gudea', sans-serif;
+	font-size: 20px;
+	color: #A0B246;
+	padding: 35px;
+}
+
+header.title {
+	font-family: 'Rancho', cursive;
+	text-align: center;
+	font-size: 2em;
+	background-color: #84413B;
+	margin: 10px 0;
+}
+
+.goal{
+	font-family: 'Gudea', sans-serif;
+	background-color: #69D2E7;
+	height: 128px;
+	margin: 10px 10px 10px 0;
+}
+
+.record{
+	font-family: 'Gudea', sans-serif;
+	background-color: #A7DBD8;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.crystalButtons{
+	padding: 10px 0;
+}
+
+img.userButton {
+	width: 92px;
+}
+
+.currentScore {
+	font-family: 'Gudea', sans-serif;
+	font-size: 22px;
+	background-color: #A0B246;
+	padding: 10px 10px 0;
+}
+
+
+.totalBox{
+	font-family: 'Gudea', sans-serif;
+	background-color: #A0B246;
+	margin: 10px auto;
+	padding: 10px 10px;
+}
